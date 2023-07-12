@@ -97,6 +97,7 @@ export default function App() {
       })}
 
       <StatusBar style="auto" />
+      {/* hello */}
     </ScrollView>
   );
 }
